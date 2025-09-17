@@ -9,8 +9,3 @@ All exercises are developed using **Visual Studio Community 2022**, focusing on 
 - **Language:** C# (or C++ depending on the lab)  
 - **Framework:** .NET 6.0 / .NET Framework  
 - **Operating System:** Windows 10/11  
-
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
