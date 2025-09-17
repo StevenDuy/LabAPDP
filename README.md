@@ -1,7 +1,7 @@
 # APDP - Lab Exercises
 
 ## 📖 Introduction
-This repository contains lab exercises for the **Application Programming and Principles** course.  
+This repository contains lab exercises for the **Applied Programming and Design Principles** course.  
 All exercises are developed using **Visual Studio Community 2022**, focusing on practicing object-oriented programming (OOP) concepts and applying fundamental programming principles to real-world scenarios.
 
 ## 🛠 Tools & Environment
